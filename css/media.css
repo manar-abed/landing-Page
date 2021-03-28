@@ -1,0 +1,299 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .Intro-sec{
+        background: none;
+        min-height: 650px;
+    }
+    .main-nav {
+        background-color: #525da9  !important;
+    }
+    .col-md-3.subdiv {
+        margin-bottom: 2%;
+    }
+    .navbar-brand{
+        color: white !important;
+        margin-left: 50px;
+    }
+    span.web-span {
+        color: white;
+    }
+    .sub-card {
+        margin-bottom: 2%;
+    }
+    /* ExpertUi sec */
+    .ExpertUi-sec{
+        background-color: #fafdff;
+        background: none;
+        height: 400px;
+    }
+     /* OurSuccess sec */
+    .OurSuccess-sec {
+    width: 100%;
+    height: 600px;
+    }
+    .OurSuccess-heading {
+        margin-bottom: 5%;
+    }
+    .shadow-div {
+        margin-bottom: 5%;
+    }
+    /* whattheysay */
+    .whattheysay-conant {
+        margin-top: 58%;
+    }
+    p.whattheysay-footar-fs-text {
+    font-size: 13px;
+    width: 30%;
+    margin-right: 24%;
+}
+.desgin,.Sketchs,.Testing{
+    margin-bottom: 5%;
+}
+.category-sec{
+    height: 900px;
+}
+/* Workflow  */
+.Workflow-sec{
+    background-color: #fafdff;
+    background: none;
+}
+    /* blogs sec */
+    .Blog-sec{
+        height: auto;
+    }
+    .item-blog{
+        margin-bottom: 4%;
+    }
+        /* footer sec */
+    img.brands-img {
+         width: 400px;
+    }
+    .info-head {
+    font-size: 14px;
+    }
+    p.aboutus-item {
+        font-size: 13px;
+    }
+    h4.footer-title {
+        font-size: 15px;
+    }
+    p.footer-text {
+        font-size: 11px;
+    }
+    .account {
+        width: 25px;
+        height: 25px;
+    }
+        /* Portfolio */
+        .image-div {
+            width: 150px;
+            height: 100px;
+        }
+        .portfolio-title {
+        font-size: 16px;
+        }
+        p.portfolio-text {
+            font-size: 12px;
+        }
+        .left-nav {
+            width: 33%;
+        }
+        .list-group-item {
+            font-size: 14px;
+        }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .Intro-sec{
+        background: none;
+        min-height: 650px;
+    }
+    .main-nav {
+        background-color: #525da9  !important;
+    }
+    .col-md-3.subdiv {
+        margin-bottom: 2%;
+    }
+    .navbar-brand{
+        color: white !important;
+        margin-left: 50px;
+    }
+    span.web-span {
+        color: white;
+    }
+    .sub-card {
+        margin-bottom: 2%;
+    }
+        /* ExpertUi sec */
+        .ExpertUi-sec{
+            background-color: #fafdff;
+            background: none;
+            height: 400px;
+        }
+     /* OurSuccess sec */
+     .OurSuccess-sec {
+        width: 100%;
+        height: 600px;
+        }
+        .OurSuccess-heading {
+            margin-bottom: 5%;
+        }
+        .shadow-div {
+            margin-bottom: 5%;
+        }
+        /* whattheysay */
+        .whattheysay-conant {
+            margin-top: 58%;
+        }
+        p.whattheysay-footar-fs-text {
+        font-size: 13px;
+        width: 30%;
+        margin-right: 24%;
+    }
+    .desgin,.Sketchs,.Testing{
+        margin-bottom: 5%;
+    }
+    .category-sec{
+        height: 900px;
+    }
+    /* Workflow  */
+    .Workflow-sec{
+        background-color: #fafdff;
+        background: none;
+    }
+    /* blogs sec */
+    .item-blog{
+        margin-bottom: 4%;
+    }
+    .Blog-sec{
+        height: auto;
+    }
+    .sub-card {
+        margin-bottom: 2%;
+    }
+    /* footer sec */
+    img.brands-img {
+        width: 400px;
+    }
+    .info-head {
+        font-size: 15px;
+        }
+        p.aboutus-item {
+            font-size: 13px;
+        }
+        .ExpertUi-sec{
+        background-color: #fafdff;
+        background: none;
+        height: 400px;
+    }
+    /* Portfolio */
+    .image-div {
+        width: 172px;
+        height: 132px;
+    }
+    .portfolio-title {
+        font-size: 20px;
+        }
+        p.portfolio-text {
+            font-size: 14px;
+        }
+        .left-nav {
+            width: 33%;
+        }
+        .list-group-item {
+            font-size: 18px;
+        }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .Intro-sec{
+        background: none;
+        min-height: 670px;
+    }
+    .main-nav {
+        background-color: #525da9  !important;
+    }
+    .col-md-3.subdiv {
+        margin-bottom: 2%;
+    }
+    .navbar-brand{
+        color: white !important;
+        margin-left: 50px;
+    }
+    span.web-span {
+        color: white;
+    }
+    img.brands-img {
+        width: 500px;
+    }
+    /* .Workflow-sec{
+        background-color: #fafdff;
+    }    */
+    .listofcategory {
+    margin-left: 22%;
+    }
+    .Workflow-heading {
+        margin-left: 23%;
+    }
+            /* whattheysay */
+            .whattheysay-conant {
+                margin-top: 39%;
+            }
+            p.whattheysay-footar-fs-text {
+            font-size: 13px;
+            width: 30%;
+            margin-right: 24%;
+        }
+        .desgin,.Sketchs,.Testing{
+            margin-bottom: 5%;
+        }
+        .category-sec {
+            height: 600px;
+        }
+        /* blogs sec */
+        .item-blog{
+            margin-bottom: 4%;
+        }
+        .Blog-sec{
+            height: auto;
+        }
+        .shadow-div {
+            width: 75%;
+        }
+        /* ExpertUi sec */
+        .ExpertUi-body {
+            margin-left: 44%;
+        }
+        /* Portfolio */
+        .image-div {
+            width: 180px;
+            height: 120px;
+        }
+        .portfolio-title {
+        font-size: 18x;
+        }
+        p.portfolio-text {
+            font-size: 14px;
+        }
+        .left-nav {
+            width: 33%;
+        }
+        .list-group-item {
+            font-size: 18px;
+        }       
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .navbar-brand{
+        margin-left: 80px;
+    }
+
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    
+}
